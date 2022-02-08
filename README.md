@@ -2,4 +2,5 @@
 to talk and leraning..
 readme de exemplo
 
-lembrei do comando commit 1
+lembrei do comando: git status
+
